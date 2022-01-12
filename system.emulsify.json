@@ -1,7 +1,7 @@
 {
   "name": "compound",
   "homepage": "https://github.com/emulsify-ds/compound",
-  "repository": "https://github.com/MinhInBlack/compound.git",
+  "repository": "https://github.com/emulsify-ds/compound.git",
   "structure": [
     {
       "name": "base",
