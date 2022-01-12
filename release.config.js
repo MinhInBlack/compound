@@ -1,7 +1,7 @@
 module.exports = {
   tagFormat: '${version}',
-  branches: ['main'],
-  repositoryUrl: 'git@github.com:emulsify-ds/compound.git',
+  branches: ['minhtytest'],
+  repositoryUrl: 'https://github.com/MinhInBlack/compound.git',
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
